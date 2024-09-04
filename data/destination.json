@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "Goa",
+        "image": "https://plus.unsplash.com/premium_photo-1697729701846-e34563b06d47?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Arabian Sea",
+        "category": "Beaches",
+        "alert": "Low"
+    },
+    {
+        "id": "2",
+        "name": "Kanyakumari",
+        "image": "https://images.unsplash.com/photo-1593185541987-92f858cf43f8?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Arabian Sea",
+        "category": "Beaches",
+        "alert": "High"
+    },
+    {
+        "id": "3",
+        "name": "Mumbai",
+        "image": "https://images.unsplash.com/photo-1718776465080-ed9f68c0488f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVtYmFpJTIwYmVhY2h8ZW58MHx8MHx8fDA%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Arabian Sea",
+        "category": "Beaches",
+        "alert": "Low"
+    },
+    {
+        "id": "4",
+        "name": "Dwarka",
+        "image": "https://images.unsplash.com/photo-1600261006257-2e937f6c025e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Arabian Sea",
+        "category": "Beaches",
+        "alert": "Low"
+    },
+    {
+        "id": "5",
+        "name": "Andaman and Nicobar",
+        "image": "https://plus.unsplash.com/premium_photo-1707028781390-93bd5c1372c3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Bay Of Bengal",
+        "category": "Beaches",
+        "alert": "Low"
+    },
+    {
+        "id": "6",
+        "name": "Karnataka",
+        "image": "https://images.unsplash.com/photo-1582731997563-4c1c20f313bc?q=80&w=1930&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Bay Of Bengal",
+        "category": "Beaches",
+        "alert": "Moderate"
+    },
+    {
+        "id": "7",
+        "name": "Vishakhapatnam",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Bay Of Bengal",
+        "category": "Beaches",
+        "alert": "Low"
+    },
+    {
+        "id": "8",
+        "name": "Puri",
+        "image": "https://images.unsplash.com/photo-1665110423477-3cf75e47dbf6?q=80&w=1971&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Bay Of Bengal",
+        "category": "Beaches",
+        "alert": "Low"
+    },
+    {
+        "id": "9",
+        "name": "Digha",
+        "image": "https://images.unsplash.com/photo-1559671888-af88d0c275bd?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Bay Of Bengal",
+        "category": "Beaches",
+        "alert": "Low"
+    },
+    {
+        "id": "10",
+        "name": "Lakshadweep",
+        "image": "https://images.unsplash.com/photo-1572431447238-425af66a273b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Its a beautiful beach with breathtaking views and a calm and soothing weather",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Arabian Sea",
+        "category": "Beaches",
+        "alert": "Low"
+    }
+]
