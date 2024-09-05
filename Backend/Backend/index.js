@@ -2,7 +2,7 @@ import express, { urlencoded } from "express";
 import cors from "cors";
 import cookeiParser from "cookie-parser";
 import dotenv from "dotenv"
-import connectDB from "./utils/db.js";
+import connectDB from "./utils/db.jsx";
 import bodyParser from "body-parser";
 import path from "path";
 import userRoute from "./routes/user_routes.js";
