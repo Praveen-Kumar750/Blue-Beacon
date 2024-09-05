@@ -40,7 +40,7 @@ app.use("/user",userRoute);
 // const SuitabilityAssessment = require('./models/suitability');
 // const Notification = require('./models/notification');
 // const APIInteraction = require('./models/apiinteraction');
-// const GeospatialVisualization = require('./models/geospatialvisual');
+//const GeospatialVisualization = require('./models/geospatialvisual');
 
 
 
