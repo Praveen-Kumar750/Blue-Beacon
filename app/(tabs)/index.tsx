@@ -58,7 +58,7 @@ const Page = () => {
           <View style={styles.searchSectionWrapper}>
             <View style={styles.searchBar}>
               <Ionicons name="search" size={20} style={{ marginRight: 5, marginTop: 3.5 }} color={Colors.black} />
-              <TextInput placeholder='Search...' style={{ fontSize: 18 }} />
+              <TextInput placeholder='Search....' style={{ fontSize: 18 }} />
             </View>
             <TouchableOpacity onPress={() => { }} style={styles.filterBtn}>
               <Ionicons name='options' size={28} color={Colors.white} />
